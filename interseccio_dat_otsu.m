@@ -2,7 +2,7 @@
 %Autora: Rania Reguigui Kharraz.
 %Escola Politécnica Superior. Universitat de Girona.
 %Treball Final de Grau
-%Segmentació nucli estriat en imatge Datscan cerebral, utilitzant mètode Otsu.
+%Intersecció entre les màscares de MRI i Datscan (Otsu)
 
 clear all;
 close all;
